@@ -35,7 +35,7 @@ I'm a Junior QA Engineer with hands-on experience in game testing and a strong p
 **Manual QA Engineer** at **Gunzilla** *[Dec 2024 - July 2025]*
 - Tested game mechanics, UI/UX, and localization
 - Performed regression testing and gameplay logic validation
-- Reported bugs with clear documentation
+- Reported bugs 
 - Gained experience in game development QA processes
 
 ---
@@ -46,7 +46,7 @@ I'm a Junior QA Engineer with hands-on experience in game testing and a strong p
 - Manual Testing (Functional, Regression, UI/UX, Game Testing)
 - Bug Reporting & Tracking
 - Test Case Design
-- Postman, Swagger, Jira, Trello
+- Postman, Jira, Trello
 
 **Programming & APIs:**
 - Python
@@ -57,7 +57,6 @@ I'm a Junior QA Engineer with hands-on experience in game testing and a strong p
 **Tools & Technologies:**
 - **Design:** Figma, Adobe Photoshop, After Effects, Premiere Pro
 - **Hardware:** PC Assembly & Configuration
-- **Blockchain:** Solana, Crypto Trading Bots
 
 **Soft Skills:**
 - Analytical Mindset
@@ -70,17 +69,15 @@ I'm a Junior QA Engineer with hands-on experience in game testing and a strong p
 
 ### 💼 Projects
 
-**Telegram & Blockchain Bots**
-- Created Telegram bot for real-time Discord admin message monitoring
+**Telegram Bot**
 - Developed visual trading bot for Solana blockchain
-- Gained practical experience with real-time data processing and API integration
 
 ---
 
 ### 📚 Education
 
 **Bachelor's in Computer Science**  
-State University of Intellectual Technologies and Communications, Odesa  
+State University of Intellectual Technologies and Communications, Ukraine,Odesa  
 *Sep 2021 – Jun 2025*
 
 ---
