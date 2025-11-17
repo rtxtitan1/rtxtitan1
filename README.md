@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, I'm Kovalchuk Maksym</h1>
-<h3 align="center">A passionate QA Manual Engineer from [Your Location]</h3>
+<h1 align="center">Hi there 👋, I'm Maksym Kovalchuk</h1>
+<h3 align="center">Junior QA Engineer with passion for technology and quality</h3>
 
 <br>
 
 <p align="center">
-  <a href="[Your LinkedIn or Portfolio URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:[Your Email]">
+  <a href="mailto:bannashinahhh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="[Your Telegram URL]">
+  <a href="tel:+380500844673">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://t.me/maksem332">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
@@ -21,52 +21,91 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **sharpening my QA skills and exploring test automation basics.**
-- 🌱 I’m currently learning **the fundamentals of JavaScript and Playwright for automated testing.**
-- 💼 With **6 months of commercial experience** in manual testing, I'm skilled in creating test documentation and ensuring software quality.
-- 💬 Ask me about **Manual Testing, Test Cases, Bug Reports, and Test Design Techniques.**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I enjoy breaking things for a living... and then meticulously documenting how I did it!**
+I'm a Junior QA Engineer with hands-on experience in game testing and a strong passion for technology. I enjoy working with blockchain, creating practical tools, and have a solid understanding of computer hardware.
+
+- 🔭 **Currently:** Studying Computer Science at State University of Intellectual Technologies and Communications
+- 💼 **QA Experience:** 6+ months at Gunzilla - testing game mechanics, UI/UX, localization, and gameplay logic
+- 🌱 **Learning:** Enhancing my QA skills and exploring blockchain technologies
+- ⚡ **Passionate about:** Blockchain, crypto trading, PC building, and creating useful tools
+- 🛠️ **Hardware Expert:** PC assembly and configuration enthusiast
 
 ---
 
-### 🛠️ My Tech Stack & Tools
+### 🎮 QA Experience
 
-**Testing & Documentation:**
-- Manual Testing (Functional, Regression, UI/UX, Smoke)
-- Test Case & Bug Report Creation (TestRail, Jira, Trello)
-- Understanding of SDLC & STLC
-- API Testing (Postman)
-- Client-Server Architecture
+**Manual QA Engineer** at **Gunzilla** *[Dec 2024 - July 2025]*
+- Tested game mechanics, UI/UX, and localization
+- Performed regression testing and gameplay logic validation
+- Reported bugs with clear documentation
+- Gained experience in game development QA processes
 
-**Basic Knowledge:**
-- SQL (Basic queries)
-- Git / GitHub
-- HTML / CSS
+---
 
-**Tools I Use:**
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=flat&logo=&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white)
+### 🛠️ Technical Skills
+
+**QA & Testing:**
+- Manual Testing (Functional, Regression, UI/UX, Game Testing)
+- Bug Reporting & Tracking
+- Test Case Design
+- Postman, Swagger, Jira, Trello
+
+**Programming & APIs:**
+- Python
+- Telegram Bot API
+- Discord API
+- Solana API
+
+**Tools & Technologies:**
+- **Design:** Figma, Adobe Photoshop, After Effects, Premiere Pro
+- **Hardware:** PC Assembly & Configuration
+- **Blockchain:** Solana, Crypto Trading Bots
+
+**Soft Skills:**
+- Analytical Mindset
+- Problem-solving
+- Fast Learning
+- Adaptability
+- Communication
+
+---
+
+### 💼 Projects
+
+**Telegram & Blockchain Bots**
+- Created Telegram bot for real-time Discord admin message monitoring
+- Developed visual trading bot for Solana blockchain
+- Gained practical experience with real-time data processing and API integration
+
+---
+
+### 📚 Education
+
+**Bachelor's in Computer Science**  
+State University of Intellectual Technologies and Communications, Odesa  
+*Sep 2021 – Jun 2025*
+
+---
+
+### 🗣️ Languages
+
+- **Ukrainian:** Native
+- **Russian:** Fluent  
+- **English:** Intermediate
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rtxtitan1&show_icons=true&theme=radical" alt="rtxtitan1's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rtxtitan1&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtxtitan1&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 ---
 
-### 📝 My Testing Principles
+### 📫 Let's Connect
 
-> "Quality is not an act, it is a habit." - Aristotle
-
-I believe in a meticulous and user-focused approach to QA. My goal is not just to find bugs, but to understand the product deeply and contribute to building a reliable and enjoyable user experience.
+I'm always open to discussing QA opportunities, technology projects, or potential collaborations!
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rtxtitan1.rtxtitan1" alt="Visitors Count" />
