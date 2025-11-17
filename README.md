@@ -23,7 +23,6 @@
 
 I'm a Junior QA Engineer with hands-on experience in game testing and a strong passion for technology. I enjoy working with blockchain, creating practical tools, and have a solid understanding of computer hardware.
 
-- 🔭 **Currently:** Studying Computer Science at State University of Intellectual Technologies and Communications
 - 💼 **QA Experience:** 6+ months at Gunzilla - testing game mechanics, UI/UX, localization, and gameplay logic
 - 🌱 **Learning:** Enhancing my QA skills and exploring blockchain technologies
 - ⚡ **Passionate about:** Blockchain, crypto trading, PC building, and creating useful tools
