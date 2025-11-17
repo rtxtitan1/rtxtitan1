@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Kovalchuk Maksym</h1>
 <h3 align="center">A passionate QA Manual Engineer from [Your Location]</h3>
 
 <br>
