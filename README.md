@@ -33,6 +33,7 @@ I'm a Junior QA Engineer with hands-on experience in game testing and a strong p
 ### 🎮 QA Experience
 
 **Manual QA Engineer** at **Gunzilla** *[Dec 2024 - July 2025]*
+https://github.com/rtxtitan1/Bug-reports
 - Tested game mechanics, UI/UX, and localization
 - Performed regression testing and gameplay logic validation
 - Reported bugs 
