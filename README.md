@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Maksym Kovalchuk</h1>
+<h1 align="center">Hi there, I'm Maksym Kovalchuk</h1>
 <h3 align="center">Junior QA Engineer with passion for technology and quality</h3>
 
 <br>
