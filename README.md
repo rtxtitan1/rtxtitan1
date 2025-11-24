@@ -46,7 +46,7 @@ https://github.com/rtxtitan1/Bug-reports
 **QA & Testing:**
 - Manual Testing (Functional, Regression, UI/UX, Game Testing)
 - Bug Reporting & Tracking
-- Test Case Design
+- Test Cases (https://github.com/rtxtitan1/Bugs-and-Test-Cases/tree/main)
 - Postman, Jira, Trello
 
 **Programming & APIs:**
