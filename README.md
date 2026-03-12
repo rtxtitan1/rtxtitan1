@@ -1,101 +1,131 @@
 <h1 align="center">Hi there, I'm Maksym Kovalchuk</h1>
-<h3 align="center">Junior QA Engineer with passion for technology and quality</h3>
+<h3 align="center">Junior QA Engineer | Manual Testing | Game Testing</h3>
 
 <br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maksym-kovalchuk-31093a26b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:banmashinahhh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/maksem332">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
-
-<br>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Junior QA Engineer with hands-on experience in game testing and a strong passion for technology. I enjoy working with blockchain, creating practical tools, and have a solid understanding of computer hardware.
+I am a **Junior QA Engineer** with experience in **game testing and manual QA**.  
+I enjoy testing software, finding bugs, and improving product quality.
 
-- 💼 **QA Experience:** 6+ months at Gunzilla - testing game mechanics, UI/UX, localization, and gameplay logic
-- 🌱 **Learning:** Enhancing my QA skills and exploring blockchain technologies
-- ⚡ **Passionate about:** Blockchain, crypto trading, PC building, and creating useful tools
-- 🛠️ **Hardware Expert:** PC assembly and configuration enthusiast
+I also have a strong interest in **technology, programming, and computer hardware**.
+
+- 🔍 Manual testing and bug reporting
+- 🎮 Game testing experience
+- 🧠 Analytical mindset and problem solving
+- 🖥️ Good knowledge of computer hardware and PC assembly
+- 📚 Constantly learning new technologies
 
 ---
 
 ### 🎮 QA Experience
 
-**Manual QA Engineer** at **Gunzilla** *[Dec 2024 - July 2025]*
+**Manual QA Engineer – Gunzilla**  
+*Dec 2024 – July 2025*
+
+- Tested **game mechanics, UI/UX, localization, and gameplay logic**
+- Performed **regression testing**
+- Reported bugs clearly and documented issues
+- Worked with **QA processes in game development**
+
+Example bug reports:  
 https://github.com/rtxtitan1/Bug-reports
-- Tested game mechanics, UI/UX, and localization
-- Performed regression testing and gameplay logic validation
-- Reported bugs 
-- Gained experience in game development QA processes
 
 ---
 
 ### 🛠️ Technical Skills
 
-**QA & Testing:**
-- Manual Testing (Functional, Regression, UI/UX, Game Testing)
-- Bug Reporting & Tracking
-- Test Cases (https://github.com/rtxtitan1/Bugs-and-Test-Cases/tree/main)
-- Postman, Jira, Trello
+**QA & Testing**
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- UI/UX Testing
+- Bug Reporting
+- Test Cases
 
-**Programming & APIs:**
+**QA Tools**
+- Jira
+- Trello
+- Postman
+- SoapUI (basic)
+- Swagger (API documentation)
+
+**Programming**
 - Python
-- Telegram Bot API
-- Discord API
-- Solana API
+- Bash
 
-**Tools & Technologies:**
-- **Design:** Figma, Adobe Photoshop, After Effects, Premiere Pro
-- **Hardware:** PC Assembly & Configuration
+**Database**
+- MySQL
 
-**Soft Skills:**
-- Analytical Mindset
-- Problem-solving
-- Fast Learning
-- Adaptability
-- Communication
+**Design & Media**
+- Figma
+- Adobe Photoshop
+- After Effects
+- Premiere Pro
+
+**Hardware**
+- PC Assembly
+- Computer configuration
+- Hardware troubleshooting
 
 ---
 
 ### 💼 Projects
 
-**Telegram Bot**
-- Developed visual trading bot for Solana blockchain
+**Telegram Bot – Discord Monitor**
+
+- Created a Telegram bot that monitors Discord admin messages
+- Extracts token addresses automatically in real time
+
+**Solana Trading Bot**
+
+- Developed a visual trading bot for the Solana blockchain
 
 ---
 
 ### 📚 Education
 
 **Bachelor's in Computer Science**  
-State University of Intellectual Technologies and Communications, Ukraine,Odesa  
+State University of Intellectual Technologies and Communications  
+Odesa, Ukraine  
+
 *Sep 2021 – Jun 2025*
 
 ---
 
-### 🗣️ Languages
+### 📜 Certificates
 
-- **Ukrainian:** Native
-- **Russian:** Fluent  
-- **English:** Intermediate
+- Stepik — *Software Testing from Scratch*
+- Mate Academy — *QA Basics*
 
 ---
 
+### 🌍 Languages
 
-### 📫 Let's Connect
+- Ukrainian — Native
+- Russian — Fluent
+- English — Intermediate
 
-I'm always open to discussing QA opportunities, technology projects, or potential collaborations!
+---
+
+### 📫 Contact
+
+Open to **QA Engineer / Junior QA / Game QA** opportunities.
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rtxtitan1.rtxtitan1" alt="Visitors Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rtxtitan1.rtxtitan1"/>
 </p>
