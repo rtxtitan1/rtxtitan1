@@ -43,7 +43,7 @@ I also have a strong interest in **technology, programming, and computer hardwar
 - Worked with **QA processes in game development**
 
 Example bug reports:  
-https://github.com/rtxtitan1/Bug-reports
+[https://github.com/rtxtitan1/Bug-reports](https://github.com/rtxtitan1/Bug-reports)
 
 ---
 
