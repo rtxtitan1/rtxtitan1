@@ -55,7 +55,7 @@ Example bug reports:
 - Regression Testing
 - UI/UX Testing
 - Bug Reporting
-- Test Cases
+- Test Cases (https://github.com/rtxtitan1/Bugs-and-Test-Cases/tree/main)
 
 **QA Tools**
 - Jira
